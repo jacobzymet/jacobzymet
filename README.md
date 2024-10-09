@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jacob!
 
-![image](https://github.com/user-attachments/assets/96dacac6-0fbb-4e96-aaa4-cf390e6de2a3)
+![image (7)](https://github.com/user-attachments/assets/1e081b71-1447-4f0b-8235-d6c65a35470a)
 
 ## About Me
 
