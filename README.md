@@ -21,7 +21,7 @@ My primary interests are:
 
 Despite the hate by the Linux Community, Windows has been around for a *long* time and has become increasingly reliable in numerous aspects. That being said, I still prefer Linux at times.
 
-- ** Windows**
+- **Windows**
    - Windows 11 (stable, aesthetically modern, has WSL2, best software support. It is my daily driver.)
 
 - **Linux Distributions**
