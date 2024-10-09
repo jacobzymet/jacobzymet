@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jacob!
 
-![Profile Banner]([https://source.unsplash.com/1600x400/?space,technology](https://avatars.githubusercontent.com/u/87545315?v=4))
+[![Profile Banner](https://source.unsplash.com/1600x400/?space,technology)](https://avatars.githubusercontent.com/u/87545315?v=4)
 
 ## About Me
 
