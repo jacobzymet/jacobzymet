@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jacob!
 
-![yiyuan-li-c6OPoic3g2Y-unsplash](https://github.com/user-attachments/assets/e873225d-c784-4119-a83e-33ccfe1384c2)
+![image](https://github.com/user-attachments/assets/96dacac6-0fbb-4e96-aaa4-cf390e6de2a3)
 
 ## About Me
 
