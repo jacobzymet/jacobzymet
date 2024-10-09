@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hello, I'm Jacob!
 
-<!--
-**solara10/solara10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner]([https://source.unsplash.com/1600x400/?space,technology](https://avatars.githubusercontent.com/u/87545315?v=4))
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Jacob Zymet
+- **Age:** 17 years old
+- **Location:** United States
+
+## Interests
+
+My primary interests are:
+
+- 🌌 **Space Exploration**
+- - 🧬 **Biotechnology**
+- 💻 **Computer Technology**
+- 📚 **Education**
+
+## Programming Knowledge
+
+Computer programming is not something I'm extremely attached to, I simply use it when necessary. My preferred languages and technologies are as follows:
+
+### General Software Development (primarily Linux-based)
+
+- **Languages:** 
+  - Python
+  - Visual Basic
+  - Bash
+  - Go
+
+### Web Development
+
+- **Technologies:**
+  - HTML
+  - CSS
+  - WordPress
+
+## Some more info
+
+Most of my software is closed-source right now, so you won't find many public repositories on my GitHub.
