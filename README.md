@@ -13,7 +13,7 @@
 My primary interests are:
 
 - 🌌 **Space Exploration**
-- - 🧬 **Biotechnology**
+- 🧬 **Biotechnology**
 - 💻 **Computer Technology**
 - 📚 **Education**
 
