@@ -13,6 +13,7 @@
 My primary interests are:
 
 - 🌌 **Space Exploration**
+- 🌆 **Infrastructure/Modern Cities**
 - 🧬 **Biotechnology**
 - 💻 **Computer Technology**
 - 📚 **Education**
