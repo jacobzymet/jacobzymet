@@ -50,6 +50,11 @@ Computer programming is not something I'm extremely attached to, I simply use it
   - CSS
   - WordPress
 
+## My Projects
+- **Proprietary/Closed-Source**
+  - Solara v2
+    <small>A program that manages containerized websites (specifically for Sol) using either Docker or Podman. Created using Python and Bash.</small>
+
 ## Some more info
 
 Most of my software is closed-source right now, so you won't find many public repositories on my GitHub.
