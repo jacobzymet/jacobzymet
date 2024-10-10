@@ -54,7 +54,7 @@ Computer programming is not something I'm extremely attached to, I simply use it
   - Docker (for containerizing WordPress)
 
 ## My Projects
-- **Proprietary/Closed-Source**
+- **Proprietary/Closed-Source**<br />
   - Solara <br />
     <sub>A program that manages containerized websites (specifically for Sol) using either Docker or Podman. Created using Python and Bash.</sub>
 
