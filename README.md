@@ -34,6 +34,9 @@ It's much harder to screw up setting up some major software, for example, on Win
   - Red Hat Enterprise Linux (for servers, as it's stable and includes enterprise support)
   - AlmaLinux/RockyLinux (for servers, essentially 1:1 with RHEL but 100% free and no enterprise support)
 
+
+In *general*, I believe Windows is good for personal desktops (especially for the average person) and Linux is good for servers. This is common knowledge, but that's not why it's my belief.
+
 ## Programming Knowledge
 
 Computer programming is not something I'm extremely attached to, I simply use it when necessary and don't use it when unnecessary. My preferred languages and technologies are as follows:
