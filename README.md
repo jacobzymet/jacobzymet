@@ -20,7 +20,7 @@ My primary interests are:
 
 ## Preferred Operating Systems
 
-Despite the hate by the Linux Community, Windows has been around for a *long* time and has become increasingly reliable in numerous aspects. 
+Despite the intense hate and vitriol by the Linux Community, Windows has been around for a *long* time and has become increasingly reliable in numerous aspects. 
 
 It's much harder to screw up setting up some major software, for example, on Windows, compared to on Linux, as software is usually installed via user-friendly graphical user interfaces on Windows, compared to a terminal/commandline on Linux. That being said, I still prefer Linux at times.
 
