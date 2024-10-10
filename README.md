@@ -49,6 +49,7 @@ Computer programming is not something I'm extremely attached to, I simply use it
 - **Technologies:**
   - HTML/CSS
   - WordPress
+  - Docker (for containerizing WordPress)
 
 ## My Projects
 - **Proprietary/Closed-Source**
