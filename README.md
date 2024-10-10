@@ -28,14 +28,13 @@ It's much harder to screw up setting up some major software, for example, on Win
    - Windows 11 (stable, aesthetically modern, has WSL2, best software support. It is my daily driver.)
 
 - **Linux Distributions**
-  - Ubuntu (due to user-friendliness and working out of the box)
-  - Fedora (user friendly to a degree, mostly works out of the box)
+  - Ubuntu (for desktop, due to user-friendliness and working out of the box)
   - Debian (for servers or containers, as it's super stable and lightweight)
-  - Red Hat Enterprise Linux (for servers, as it's stable and comes with enterprise support)
+  - Red Hat Enterprise Linux (for servers, as it's stable and includes enterprise support)
 
 ## Programming Knowledge
 
-Computer programming is not something I'm extremely attached to, I simply use it when necessary. My preferred languages and technologies are as follows:
+Computer programming is not something I'm extremely attached to, I simply use it when necessary and don't use it when unnecessary. My preferred languages and technologies are as follows:
 
 ### General Software Development (primarily Linux-based)
 
@@ -48,13 +47,12 @@ Computer programming is not something I'm extremely attached to, I simply use it
 ### Web Development
 
 - **Technologies:**
-  - HTML
-  - CSS
+  - HTML/CSS
   - WordPress
 
 ## My Projects
 - **Proprietary/Closed-Source**
-  - Solara v2
+  - Solara
 
     <small>A program that manages containerized websites (specifically for Sol) using either Docker or Podman. Created using Python and Bash.</small>
 
