@@ -55,7 +55,7 @@ Computer programming is not something I'm extremely attached to, I simply use it
 
 ## My Projects
 - **Proprietary/Closed-Source**
-  - Solara
+  - Solara <br />
     <sub>A program that manages containerized websites (specifically for Sol) using either Docker or Podman. Created using Python and Bash.</sub>
 
 ## Some more info
