@@ -29,7 +29,9 @@ It's much harder to screw up setting up some major software, for example, on Win
    - Windows 7 (very nice and more lightweight OS, good software support, but outdated in many ways by modern standards. I don't use it but it was good.)
 
 - **Linux Distributions**
+  - Linux Mint (for desktop, due to user-friendliness and working out of box)
   - Ubuntu (for desktop, due to user-friendliness and working out of the box)
+  - Arch Linunx (for desktop, *only* if you wish to customize your OS from the ground up)
   - Debian (for servers or containers, as it's super stable and lightweight)
   - Red Hat Enterprise Linux (for servers, as it's stable and includes enterprise support)
   - AlmaLinux/RockyLinux (for servers, essentially 1:1 with RHEL but 100% free and no enterprise support)
