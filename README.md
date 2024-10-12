@@ -48,6 +48,7 @@ Computer programming is not something I'm extremely attached to, I simply use it
 - **Languages:** 
   - Python
   - Visual Basic
+  - C#
   - Bash
   - Go
 
