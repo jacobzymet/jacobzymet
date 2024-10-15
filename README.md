@@ -69,6 +69,9 @@ Computer programming is not something I'm extremely attached to, I simply use it
   - Z <br />
     <sub>A specialized programming language that is interpreted and compiled, created for Sol/Solara internal software, designed to be maximally-simple and easily understandable. Supports x86_64, AArch64, and AArch32 processor types. Syntax example: ``if OS=windows then batch("echo Hello Windows User") else if OS=linux then bash("echo Hello Linux User!")``</sub>
 
+  - Min Linux <br />
+    <sub>Specialized software for Debian 12 to optimize it for, and add useful features for containerization via the Solara application.</sub>
+
 ## Some more info
 
 Most of my software is closed-source right now, so you won't find many public repositories on my GitHub.
