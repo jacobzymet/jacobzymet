@@ -67,7 +67,7 @@ Computer programming is not something I'm extremely attached to, I simply use it
     <sub>A program that manages containerized websites (specifically for Sol) using either Docker or Podman. Created using Z, Python, and Bash.</sub>
 
   - Z <br />
-    <sub>A specialized programming language that is interpreted and compiled, created for Sol/Solara internal software, designed to be maximally-simple and easily understandable. Supports x86_64, AArch64, and AArch32 processor types. Syntax example: ``if OS=windows then batch("echo Hello Windows User") else if OS=linux then bash("echo Hello Linux User!")``</sub>
+    <sub>A specialized programming language that is interpreted and compiled, created for Sol/Solara internal software, designed to be maximally-simple and easily understandable. Supports x86_64, AArch64, and AArch32 processor types. Syntax example: ``if OS=windows then batch("echo Hello Windows User") else if OS=linux then bash("echo Hello Linux User!")``. The Z interpreter is written in D.</sub>
 
   - Min Linux <br />
     <sub>Specialized software for Debian 12 to optimize it for, and add useful features for containerization via the Solara application.</sub>
