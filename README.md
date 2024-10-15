@@ -51,7 +51,7 @@ Computer programming is not something I'm extremely attached to, I simply use it
   - C#
   - D
   - Bash Script
-  - Z (see more)
+  - Z [(see more)](#my-projects)
 
 ### Web Development
 
