@@ -64,6 +64,9 @@ Computer programming is not something I'm extremely attached to, I simply use it
   - Solara <br />
     <sub>A program that manages containerized websites (specifically for Sol) using either Docker or Podman. Created using Python and Bash.</sub>
 
+  - Min <br />
+    <sub>An interpreter-powered programming language created for Sol/Solara internal services and software, designed to be minimal and easily understandable.</sub>
+
 ## Some more info
 
 Most of my software is closed-source right now, so you won't find many public repositories on my GitHub.
