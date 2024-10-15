@@ -49,8 +49,9 @@ Computer programming is not something I'm extremely attached to, I simply use it
   - Python
   - Visual Basic
   - C#
-  - Bash
-  - Go
+  - D
+  - Bash Script
+  - Z (see more)
 
 ### Web Development
 
