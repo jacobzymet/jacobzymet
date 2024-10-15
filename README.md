@@ -73,7 +73,7 @@ Computer programming is not something I'm extremely attached to, I simply use it
     <sub>Specialized software for Debian 12 to optimize it for, and add useful features for containerization via the Solara application.</sub>
 
 - **Open Source**<br />
-  - ssf <br />
+  - ssf (Super Simple Firewall) <br />
     <sub>Firewall program for Linux servers created as a wrapper of nftables, designed to be easy-to-use. **Development starts soon**</sub>
 
 ## Some more info
