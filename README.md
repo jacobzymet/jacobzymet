@@ -7,7 +7,7 @@
 - **Name:** Jacob Zymet
 - **Age:** 17 years old
 - **Location:** United States
-- **Occupation:** Student and Founder of Sol [website](https://solcluster.com/) [github](https://github.com/Sol-Global/)
+- **Occupation:** Student and Founder of Sol [[website]](https://solcluster.com/) [[github]](https://github.com/Sol-Global/)
 
 ## Interests
 
