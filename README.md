@@ -52,7 +52,7 @@ Computer programming is not something I'm extremely attached to, I simply use it
   - C#
   - D
   - Bash Script
-  - Batch and PowerShell
+  - PowerShell
   - Z [(see more)](#my-projects)
 
 ### Web Development
