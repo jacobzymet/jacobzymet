@@ -48,12 +48,10 @@ Computer programming is not something I'm extremely attached to, I simply use it
 
 - **Languages:** 
   - Python
-  - Visual Basic
   - C#
   - D
   - Bash Script
   - PowerShell
-  - Z [(see more)](#my-projects)
 
 ### Web Development
 
