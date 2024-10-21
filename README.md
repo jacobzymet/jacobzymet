@@ -30,8 +30,8 @@ It's much harder to screw up setting up some major software, for example, on Win
    - Windows 7 (very nice and more lightweight OS, good software support, but outdated in many ways by modern standards. I don't use it but it was good.)
 
 - **Linux Distributions**
-  - Linux Mint (for desktop, due to user-friendliness and working out of box)
   - Ubuntu (for desktop, due to user-friendliness and working out of the box)
+  - Linux Mint (for desktop, due to user-friendliness and working out of box)
   - Debian (for servers or containers, as it's super stable and lightweight)
   - RHEL (for servers)
 
@@ -61,13 +61,10 @@ Computer programming is not something I'm extremely attached to, I simply use it
 ## My Projects
 - **Proprietary/Closed-Source**<br />
   - Solara <br />
-    <sub>A program that manages containerized websites (specifically for Sol) using either Docker or Podman. Created using Z, Python, and Bash.</sub>
+    <sub>A program that manages containerized websites (specifically for Sol) using Docker. Written in Python, Bash, Powershell, and Min.</sub>
 
-  - Z <br />
-    <sub>A specialized programming language that is interpreted and compiled, created for Sol/Solara internal software, designed to be maximally-simple and easily understandable. Supports x86_64, AArch64, and AArch32 processor types. Syntax example: ``if OS=windows then batch("echo Hello Windows User") else if OS=linux then bash("echo Hello Linux User!")``. The Z interpreter is written in D.</sub>
-
-  - Min Linux <br />
-    <sub>Specialized software for Debian 12 to optimize it for, and add useful features for containerization via the Solara application.</sub>
+  - Min <br />
+    <sub>A specialized programming language that is interpreted and compiled, created for Sol/Solara internal software, designed to be maximally-simple and easily understandable. Supports amd64, AArch64, and AArch32 processor types. Syntax example: ``if OS=windows then batch("echo Hello Windows User") else if OS=linux then bash("echo Hello Linux User!")``. The Min interpreter is written in C#.</sub>
 
 - **Open Source**<br />
   - ssf (Super Simple Firewall) <br />
