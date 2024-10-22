@@ -47,7 +47,7 @@ Computer programming is not something I'm extremely attached to, I simply use it
 - **Languages:** 
   - Python
   - C#
-  - D
+  - F#
   - Bash Script
   - PowerShell
 
