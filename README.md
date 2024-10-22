@@ -67,8 +67,8 @@ Computer programming is not something I'm extremely attached to, I simply use it
     <sub>A specialized programming language that is interpreted and compiled, created for Sol/Solara internal software, designed to be maximally-simple and easily understandable. Supports amd64, AArch64, and AArch32 processor types. Syntax example: ``if OS=windows then batch("echo Hello Windows User") else if OS=linux then bash("echo Hello Linux User!")``. The Min interpreter is written in C#.</sub>
 
 - **Open Source**<br />
-  - ssf (Super Simple Firewall) <br />
-    <sub>Firewall program for Linux servers created as a wrapper of nftables, designed to be easy-to-use. **Development starts soon**</sub>
+  - emx (Experimental Mock Operating System) <br />
+    <sub>A C# program designed to simulate and replicate the functionality of a computer operating system, for experimentation/learning purposes. Uses its own minimal interpreted language called EMXscript.</sub>
 
 ## Some more info
 
