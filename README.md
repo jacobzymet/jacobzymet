@@ -25,30 +25,33 @@ Despite the intense hate and vitriol by some in the Linux Community, Windows has
 
 It's much harder to screw up setting up some major software, for example, on Windows, compared to on Linux, as software is usually installed via user-friendly graphical user interfaces on Windows, compared to a terminal/commandline on Linux. That being said, I still prefer Linux at times.
 
-- **Windows**
-   - Windows 11 (stable, aesthetically modern, has WSL2, best software support. It is my daily driver.)
-   - Windows 7 (very nice and more lightweight OS, good software support, but outdated in many ways by modern standards. I don't use it but it was good.)
+This is my view:
 
-- **Linux Distributions**
-  - Ubuntu (for desktop, due to user-friendliness and working out of the box)
-  - Linux Mint (for desktop, due to user-friendliness and working out of box)
-  - Debian (for servers or containers, as it's super stable and lightweight)
-  - RHEL (for servers)
+- **High-Performance Workstations**
+   - Windows 11 (x86_64)
+   - Ubuntu 24.04 LTS
+   - Fedora Workstation 40
+ 
+- **Portability/Productivity On-The-Go, Ease of Use**
+   - MacOS on MacBook Pro/Air with Apple Silicon
 
+- **Servers with Critical Importance**
+  - Ubuntu 24.04
+  - Debian 12
+  - RHEL 9
 
-In *general*, I believe Windows is good for personal desktops (especially for the average person) and Linux is good for servers. This is common knowledge, but that's not why it's my belief.
+In *general*, I believe Windows is ideal for high-performance workstations that need maximum compatibility and performance, MacOS (on Macbook) is ideal for portabaility and productivity on the go, and Linux (Ubuntu, Debian, RHEL 9) is ideal for mission-critical servers. This is common knowledge, but that's not why it's my belief.
 
 ## Programming Knowledge
 
-Computer programming is not something I'm extremely attached to, I simply use it when necessary and don't use it when unnecessary. My preferred languages and technologies are as follows:
+Computer programming is not something I'm extremely attached to, I simply use it when necessary. My preferred languages and technologies are as follows:
 
 ### General Software Development (primarily Linux-based)
 
 - **Languages:** 
   - Python
-  - C
   - C#
-  - F#
+  - C
   - Bash Script
   - PowerShell
 
@@ -57,12 +60,13 @@ Computer programming is not something I'm extremely attached to, I simply use it
 - **Technologies:**
   - HTML/CSS
   - WordPress
-  - Docker (for containerizing WordPress)
+  - Docker
+  - Podman
 
 ## My Projects
 - **Proprietary/Closed-Source**<br />
   - Solara <br />
-    <sub>A program that manages containerized websites (specifically for Sol) using Docker. Written in Python, Bash, Powershell, and Min.</sub>
+    <sub>A program that manages Sol containerized websites using Docker. Written in Python, Bash, Powershell, and Min.</sub>
 
   - Min <br />
     <sub>A specialized programming language that is interpreted and compiled, created for Sol/Solara internal software, designed to be maximally-simple and easily understandable. Supports amd64, AArch64, and AArch32 processor types. Syntax example: ``if OS=windows then batch("echo Hello Windows User") else if OS=linux then bash("echo Hello Linux User!")``. The Min interpreter is written in C#.</sub>
@@ -70,6 +74,7 @@ Computer programming is not something I'm extremely attached to, I simply use it
 - **Open Source**<br />
   - emx (Experimental Mock Operating System) <br />
     <sub>A C# program designed to simulate and replicate the functionality of a computer operating system, for experimentation/learning purposes. Uses its own minimal interpreted language called EMXscript.</sub>
+
 
 ## Some more info
 
