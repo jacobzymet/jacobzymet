@@ -4,7 +4,8 @@
 
 ## About Me
 
-- **Name:** Jacob Zymet
+- **Name:**
+ Jacob Zymet
 - **Age:** 17 years old
 - **Location:** United States
 - **Occupation:** Student and Founder of Sol [[website]](https://solcluster.com/) [[github]](https://github.com/Sol-Global/)
@@ -28,17 +29,17 @@ It's much harder to screw up setting up some major software, for example, on Win
 This is my view:
 
 - **High-Performance Workstations**
-   - Windows 11 (x86_64)
-   - Ubuntu 24.04 LTS
-   - Fedora Workstation 40
+   - Windows 11 (amd64)
+   - Ubuntu 24.04 (amd64)
+   - Fedora Workstation 40 (amd64)
  
 - **Portability/Productivity On-The-Go, Ease of Use**
-   - MacOS on MacBook Pro/Air with Apple Silicon
+   - MacOS on MacBook Pro/Air (Apple Silicon/Arm64)
 
 - **Servers with Critical Importance**
   - Ubuntu 24.04
   - Debian 12
-  - RHEL 9
+  - Red Hat Enterprise Linux 9
 
 In *general*, I believe Windows is ideal for high-performance workstations that need maximum compatibility and performance, MacOS (on Macbook) is ideal for portabaility and productivity on the go, and Linux (Ubuntu, Debian, RHEL 9) is ideal for mission-critical servers. This is common knowledge, but that's not why it's my belief.
 
