@@ -30,7 +30,7 @@ I find Windows best for compatibility and usability, macOS ideal for portability
 Programming supports my projects, rather than being a primary focus. I use:
 
 - **Languages:** C#, Python/Cython, Nim, Rust (currently learning)
-- **Web Development Tools:** HTML/CSS, WordPress, Docker, Podman
+- **Web Development Tools:** HTML/CSS, WordPress, Docker
 
 ## Projects
 - **Closed-Source Projects**  
