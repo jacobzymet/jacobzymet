@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Jacob!
 
+![image (7)](https://github.com/user-attachments/assets/1e081b71-1447-4f0b-8235-d6c65a35470a)
+
 ## About Me
 - **Name:** Jacob Zymet
 - **Age:** 17
