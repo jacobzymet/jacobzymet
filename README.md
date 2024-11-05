@@ -29,9 +29,9 @@ I choose operating systems based on purpose and reliability:
 I find Windows best for compatibility and usability, macOS ideal for portability, and Linux (Ubuntu, Debian, RHEL) perfect for server reliability, or development-centric workstations.
 
 ## Programming Knowledge
-Programming supports my projects, rather than being a primary focus. I use:
+Programming supports my projects, rather than being a primary focus.
 
-- **Languages:** C#, Python/Cython, Nim, C, Rust
+- **Preferred Languages:** Python, C, C#
 - **Web Development Tools:** HTML/CSS, WordPress, Docker
 
 ## Projects
