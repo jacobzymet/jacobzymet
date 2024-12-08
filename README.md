@@ -14,7 +14,7 @@ I'm passionate about:
 - 🌆 City/World Infrastructure & Modern Cities
 - 🧬 Biotechnology
 - 💻 Computer Technology
-- 📚 Education & Knowledge Sharing
+- 📚 Modern Education 
 
 ## Preferred Operating Systems
 I choose operating systems based on purpose and reliability:
